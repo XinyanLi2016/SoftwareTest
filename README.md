@@ -8,3 +8,7 @@ homework02
 3、针对1中的系统，基于相关的代码自动化测试框架为其开发验证happy path的 测试代码
 
 编程语言不限~，工具不限~
+
+Excersize
+=========
+JUnitTest is a Java project for using tools.
