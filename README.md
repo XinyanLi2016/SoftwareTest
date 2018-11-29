@@ -9,6 +9,6 @@ homework02
 
 编程语言不限~，工具不限~
 
-Excercise
+Exercise
 =========
 JUnitTest is a Java project for using tools.
